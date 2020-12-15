@@ -29,7 +29,6 @@ class Game
 
     /**
      * @ORM\Column(type="text", nullable=true)
-     * @Test()
      */
     private $description;
 
